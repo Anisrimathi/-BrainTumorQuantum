@@ -50,3 +50,7 @@ Thumbs.db
 # Local diagnostic files
 x
 diagnostic_error.txt
+
+# Historical experimental scripts
+src/*_backup_*.py
+src/*_before_*.py
