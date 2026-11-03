@@ -1,0 +1,52 @@
+# Python environments
+venv/
+venv_broken/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Medical imaging dataset
+dataset/
+*.nii
+*.nii.gz
+
+# Trained models and checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Generated results
+results/
+runs/
+outputs/
+logs/
+
+# Backup archives and folders
+BrainTumorQuantum_Backup/
+BrainTumorQuantum_Backup.zip
+BrainTumorQuantum_Submission.zip
+*_backup.py
+app_backup.py
+app_v2_backup.py
+app_before_*.py
+app_v2_before_*.py
+*.bak
+
+# Secrets
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Old environment files
+requirements_old_xpu.txt
+old_packages.txt
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local diagnostic files
+x
+diagnostic_error.txt

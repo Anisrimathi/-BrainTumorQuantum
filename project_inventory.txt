@@ -1,0 +1,57 @@
+BrainTumorQuantum Project Inventory
+Generated: 10/25/2026 22:44:24
+
+
+Name                                           Type   Files SizeGB
+----                                           ----   ----- ------
+BrainTumorQuantum_Backup                       Folder    56  0.082
+dataset                                        Folder  6255  12.47
+models                                         Folder     0      0
+results                                        Folder    63  0.176
+src                                            Folder    55      0
+submission                                     Folder     5      0
+venv                                           Folder 62931  5.059
+venv_broken                                    Folder 62947  5.062
+__pycache__                                    Folder     2      0
+app.py                                         File       1      0
+app_backup.py                                  File       1      0
+app_before_full_volume_v2.py                   File       1      0
+app_before_pdf_report.py                       File       1      0
+app_v2.py                                      File       1      0
+app_v2_before_comparison_charts.py             File       1      0
+app_v2_before_download_fix.py                  File       1      0
+app_v2_before_macro_comparison.py              File       1      0
+app_v2_before_overlay.py                       File       1      0
+app_v2_before_pdf_report_update.py             File       1      0
+app_v2_before_pdf_table_fix_20261025_222010.py File       1      0
+app_v2_before_volume_metrics.py                File       1      0
+BrainTumorQuantum_Backup.zip                   File       1  0.074
+BrainTumorQuantum_Submission.zip               File       1      0
+check_hybrid_gradients.py                      File       1      0
+check_hybrid_validation.py                     File       1      0
+compare_one_patient_predictions.py             File       1      0
+compare_patient_dice.py                        File       1      0
+compare_results.py                             File       1      0
+create_final_backup.py                         File       1      0
+diagnose_hybrid_gradients.py                   File       1      0
+diagnose_hybrid_prediction.py                  File       1      0
+diagnose_quantum_feature_scale.py              File       1      0
+diagnose_quantum_gradients.py                  File       1      0
+diagnose_quantum_gradient_path.py              File       1      0
+diagnose_quantum_optimizer_step.py             File       1      0
+diagnose_real_patch_gradients.py               File       1      0
+diagnose_standalone_vqc.py                     File       1      0
+diagnostic_error.txt                           File       1      0
+fix_evaluation_script.py                       File       1      0
+fix_pdf_table.py                               File       1      0
+inspect_checkpoints.py                         File       1      0
+inspect_saved_masks.py                         File       1      0
+old_packages.txt                               File       1      0
+project_inventory.txt                          File       1      0
+requirements.txt                               File       1      0
+requirements_no_torch.txt                      File       1      0
+summarize_full_volume.py                       File       1      0
+x                                              File       1      0
+
+
+
